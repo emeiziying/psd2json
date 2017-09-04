@@ -1,0 +1,8 @@
+{
+  "psd": [
+    "example.psd",
+    "example2.psd"
+  ],
+  "psdPath": "psd/",
+  "outPath": "output/"
+}

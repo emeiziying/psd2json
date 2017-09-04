@@ -2,9 +2,9 @@
   "name": "psd2json",
   "version": "0.0.1",
   "description": "psd2json",
-  "main": "index.js",
+  "main": "./node/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "psd2json": "node ./node/psd2json.js"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/emeiziying/psd2json#readme",
   "dependencies": {
-    "jsdoc": "^3.5.4",
     "psd": "^3.2.0"
   }
 }
